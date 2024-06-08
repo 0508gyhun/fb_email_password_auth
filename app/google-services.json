@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727310326584",
+    "project_id": "fb-email-pssword-auth",
+    "storage_bucket": "fb-email-pssword-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727310326584:android:aaa66cb9a91b3724c1ffcd",
+        "android_client_info": {
+          "package_name": "com.example.fb_email_password_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WfWrJS9bhUQbvJh0NaLzgU0QkMCn6RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
